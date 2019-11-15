@@ -57,4 +57,4 @@ client.on("reachLimit", (limit)=> {
   });
 });
 
-client.login('توكن');
+client.login('NjQ0OTEwMjg0NjQ5MDA1MDc2.Xc65iQ.fORLE_e9Pcyp3mDzRD5ziDBgqls');
